@@ -99,9 +99,7 @@ Here are some projects I'm building or have planned:
 
 ## 🏕️ Personal Interests
 
-- 🧭 Attended 3 national-level **Scouts & Guides adventure camps** in Pachmarhi
 - 🎬 Passionate about **videography**, storytelling, and editing
-- 🏏 Avid **cricket player** and tech enthusiast
 - 📷 Enjoy creating and editing content in my free time
 
 ---
