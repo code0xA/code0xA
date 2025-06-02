@@ -124,19 +124,6 @@ Feel free to reach out or connect with me on these platforms:
 
 ---
 
-## ✨ Quote That Inspires Me
-
-<p align="center" style="font-style: italic;">
-  <b>“कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। <br>
-  मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥”</b>  
-  <br><br>
-  — <i>Bhagavad Gita, Chapter 2, Verse 47</i> <br>
-  🕉️ "You have a right to perform your actions, but not to the fruits of your actions. <br>
-  Never consider yourself the cause of the results, and never be attached to inaction."
-</p>
-
----
-
 ## 🔁 Ongoing Journey
 
 This GitHub profile is a living representation of my learning journey. I keep pushing myself to learn new things, contribute to real-world projects, and become a better engineer every day.
